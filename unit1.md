@@ -3,8 +3,8 @@
 Index:
   - [What is software testing?](#What-is-software-testing?)
   - [Project Quality Management](#Project-Quality-Management)
-  - [Verification & Validation](#Verification-&-Validation)
-  - [Software Testing Life Cycle (STLC)](#Software-Testing-Life-Cycle-(STLC))
+  - [Verification & Validation](#Verification-and-Validation)
+  - [Software Testing Life Cycle (STLC)](#Software-Testing-Life-Cycle)
   - [Software Testing Types](#Software-Testing-Types)
 
 # What is software testing?
@@ -94,7 +94,7 @@ satisfy stated and implied needs.
 | Done throughout life cycle | Done after product is built |
 | Staff function | Line function |
 
-# Verification & Validation
+# Verification and Validation
 [Index](#Software-Testing-:-Unit-1)
 
 ## Verification
@@ -112,7 +112,7 @@ Process of evaluating a system or component at the end of development to determi
 3. **V**erification
 4. e**X**it
 
-# Software Testing Life Cycle (STLC)
+# Software Testing Life Cycle
 [Index](#Software-Testing-:-Unit-1)
 
 Stages :
