@@ -1,6 +1,6 @@
 # Software Testing : Unit 2
 
-Index:
+# Index
   - [Test Driven Development](#Test-Driven-Development)
   - [Refactoring](#Refactoring)
   - [White Box Testing](#White-Box-Testing)
@@ -14,7 +14,7 @@ Index:
   - [System Testing](#System-Testing)
 
 # Test Driven Development
-[Index](#Software-Testing-:-Unit-2)
+[Index](#Index)
 
 Two simple rules:
 
@@ -27,12 +27,12 @@ Two simple rules:
 - Reduces the documentation process at the developer's end.
 
 # Refactoring
-[Index](#Software-Testing-:-Unit-2)
+[Index](#Index)
 
 The process of changing a software system in such a way that it does not affect the external behavior of the system but improves it's internal structure.
 
 # White Box Testing
-[Index](#Software-Testing-:-Unit-2)
+[Index](#Index)
 
 - Testing based on the knowledge of the internal structure of the system.
 - Performs testing by mapping program code to functionality.
@@ -44,7 +44,7 @@ The process of changing a software system in such a way that it does not affect 
 3. Greater effort
 
 # Static Methods
-[Index](#Software-Testing-:-Unit-2)
+[Index](#Index)
 
 - Involves only source code and not the executable.
 - Humans going through the source code or using tools.
@@ -66,7 +66,7 @@ Methods:
 - Scribe
 
 # Structural Testing
-[Index](#Software-Testing-:-Unit-2)
+[Index](#Index)
 
 - Done by executing code on machine
 
@@ -77,7 +77,7 @@ Types:
 3. Code complexity testing
 
 # Unit Testing
-[Index](#Software-Testing-:-Unit-2)
+[Index](#Index)
 
 - White box testing technique
 - Usually performed by the developer
@@ -106,7 +106,7 @@ Commonly automated.
 > Cannot be used to catch broad system level errors or defects.
 
 # Code Coverage Testing
-[Index](#Software-Testing-:-Unit-2)
+[Index](#Index)
 
 - Focus is to cover all/required parts of code
 - Map parts of code to required functionality
@@ -120,14 +120,14 @@ Commonly automated.
 4. Function coverage
 
 # Code complexity testing
-[Index](#Software-Testing-:-Unit-2)
+[Index](#Index)
 
 Cyclomatic complexity:
 
 - Provides indication of how many independent paths are there in a program
 
 # Integration Testing
-[Index](#Software-Testing-:-Unit-2)
+[Index](#Index)
 
 Testing of a partially built system with more than one components integrated together.
 
@@ -152,7 +152,7 @@ Testing of a partially built system with more than one components integrated tog
 - Uses drivers and stubs
 
 # Scenario Testing
-[Index](#Software-Testing-:-Unit-2)
+[Index](#Index)
 
 - Uses a speculative story to help the tester work through a complicated problem.
 - Scenarios cover a number of tests; different from end users.
@@ -167,7 +167,7 @@ Five key characteristics:
 5. Easy to evaluate  
 
 # System Testing
-[Index](#Software-Testing-:-Unit-2)
+[Index](#Index)
 
 - Testing of the entire integrated system
 - Only phase where both functional and non-functional requirements are checked for compliance.
