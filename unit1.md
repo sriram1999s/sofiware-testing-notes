@@ -1,6 +1,6 @@
 # Software Testing : Unit 1
 
-## Index
+# Index
   - [What is software testing?](#What-is-software-testing?)
   - [Project Quality Management](#Project-Quality-Management)
   - [Verification & Validation](#Verification-and-Validation)
@@ -8,7 +8,7 @@
   - [Software Testing Types](#Software-Testing-Types)
 
 # What is software testing?
-[Index](##Index)
+[Index](#Index)
 
 - Software testing is a fundamental part of software development
 - A process consisting of all life cycle activities both static and dynamic concerned with planning, preparation and evaluation of the software product and related work to determine if they have satisfied specific requirements, to demonstrate that they are fit for purpose.
@@ -21,7 +21,7 @@
   - has to be managed
 
 # Project Quality Management
-[Index](##Index)
+[Index](#Index)
 
 ## What is software quality?
 
@@ -95,7 +95,7 @@ satisfy stated and implied needs.
 | Staff function | Line function |
 
 # Verification and Validation
-[Index](##Index)
+[Index](#Index)
 
 ## Verification
 
@@ -113,7 +113,7 @@ Process of evaluating a system or component at the end of development to determi
 4. e**X**it
 
 # Software Testing Life Cycle
-[Index](##Index)
+[Index](#Index)
 
 Stages :
 
@@ -260,7 +260,7 @@ Stages :
   ```
 
 # Software Testing Types
-[Index](##Index)
+[Index](#Index)
 
 ## Based on method
 
