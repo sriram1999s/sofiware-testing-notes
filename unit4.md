@@ -4,8 +4,10 @@
 
   - [Acceptance Testing](#Acceptance-Testing)
   - [Non-Functional Testing](#Non-Functional-Testing)
+  - [Regression Testing](#Regression-Testing)
 
 ## Acceptance Testing
+[Index](#Index)
 
 Testing done in accordance with customer specified criteria.
 Typically the criteria is pre-defined and mutually agreed on.
@@ -46,6 +48,7 @@ Performed by :
 - Results need to be carefully analyzed
 
 ## Non-Functional Testing
+[Index](#Index)
 
 Testing for :
 - Reliability
@@ -73,6 +76,7 @@ Testing for :
 | Repeated multiple times | Repeated in case of failures and for different configs |
 
 ## Regression Testing
+[Index](#Index)
 
 Blackbox testing technique
 
@@ -82,29 +86,29 @@ Used to make sure code change does not impact existing functionality od product.
 
 1. Corrective
 
-Used when there are no changes made to product specification.
+- Used when there are no changes made to product specification.
 
 2. Retest-all
 
-Testing all existing aspects of the particular product.
-Tedious - not recommended for minor changes
+- Testing all existing aspects of the particular product.
+- Tedious - not recommended for minor changes
 
 3. Selective
 
-After analyzing impact of new code on existing code, uses subset of existing test cases to reduce cost and effort.
+- After analyzing impact of new code on existing code, uses subset of   - existing test cases to reduce cost and effort.
 
 4. Progressive
 
-Used when there are changes in the product specification.
+- Used when there are changes in the product specification.
 
 5. Complete
 
-Best technique to be used in case of major changes
+- Best technique to be used in case of major changes
 
 6. Partial
 
-Tests when minor changes to existing code
+- Tests when minor changes to existing code
 
 7. Unit
 
-Focuses on units of code while blocking all associated dependencies and interactions during testing. 
+- Focuses on units of code while blocking all associated dependencies and interactions during testing.
